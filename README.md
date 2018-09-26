@@ -1,5 +1,6 @@
 # daily_downloads
 Ingest daily download data and insert into MapD table for analysis
+
 On Hoarder
 ------------
 Run create_last_execution.py to create an empty file whose mtime will be used to get newer CSV files.
